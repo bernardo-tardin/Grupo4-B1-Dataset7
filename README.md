@@ -2,7 +2,7 @@
 
 ## Descrição do dataset
 O dataset GDS3715 apresenta dados relativos ao efeito da insulina na expressão genética do músculo esquelético. 
-Foram recolhidas amostras de tecido muscular de 110 pessoas, em que 50% dos pacientes foram submetidos a testes de clampeamento euglicémico e hiperinsulinémico. Para cada amostra há com 12626 medidas disponíveis que correspondem ao mRNA do gene do paciente.
+Foram recolhidas amostras de tecido muscular de 110 pessoas, em que 50% dos pacientes foram submetidos a testes de clampeamento euglicémico e hiperinsulinémico. Para cada amostra há 12626 medidas disponíveis que correspondem ao mRNA do gene do paciente.
 Portanto, o grupo tem como objetivo aplicar técnicas de *Machine Learning* para conseguir identificar, através das expressões genéticas dos diferentes pacientes, quais genes do músculo esquelético humano são responsivos à insulina.
 
 ### Dataset original
